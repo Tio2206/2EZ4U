@@ -1,4 +1,6 @@
-# 2EZ4U APP
+# Project 2EZ4U APP
+
+Struktur Data & Analisa Algoritma (EC234303)
 
 Engine backend layanan antar makanan mini. Struktur data dan algoritma ditulis sendiri
 (tanpa `dict`, `set`, `sorted`, `.sort()`, `heapq`, `bisect`, `collections`, literal `{}`).
